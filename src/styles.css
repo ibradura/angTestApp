@@ -1,0 +1,4 @@
+/* You can add global styles to this file, and also import other style files */
+body{margin:0px; padding:0px;width:100%;overflow-x:hidden;}
+div.content{width:98%;position:relative;margin:10px auto;padding: 1%;}
+app-root{width:50%;margin-left:20px;position:relative;display: block;}
